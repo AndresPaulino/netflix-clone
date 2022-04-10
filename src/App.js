@@ -1,12 +1,12 @@
-import './App.css';
-import axios from 'axios';
-import sass from './App.scss';
+import './App.scss';
 import Row from './components/Row';
+import requests from './components/requests';
 
 function App() {
   return (
     <div>
-      <Row />
+      <Row title='NETFLIX ORIGINALS' fetchUrl={requests.fetchNetflixOriginals} />
+      <Row title='Trending Now' fetchUrl={requests.fetchTrending} />
     </div>
   );
 }
