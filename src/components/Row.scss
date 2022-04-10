@@ -1,0 +1,21 @@
+*, *::before, *::after {
+  box-sizing: border-box;
+  margin: 0;
+  padding: 0;
+}
+
+.row {
+
+  &__posters {
+    display: flex;
+    gap: .625rem;
+    overflow-x: scroll;
+    overflow-y: hidden;
+  }
+
+  &__poster {
+    width: 100%;
+    object-fit: contain;
+    max-height: 6.25rem;
+  }
+}
