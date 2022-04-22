@@ -16,7 +16,15 @@ margin-left: 1.25rem;
     padding: 1.25rem;
 
     &::-webkit-scrollbar {
-      display: none;
+      height: .5rem;
+      background-color: #aaaa;
+      border-radius: 5px;
+    }
+
+    &::-webkit-scrollbar-thumb {
+      background-color: #cccc;
+      border-radius: 5px;
+      width: 5px;
     }
   }
 
