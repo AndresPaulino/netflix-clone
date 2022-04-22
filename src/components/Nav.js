@@ -25,7 +25,7 @@ function Nav() {
         />
       </a>
 
-      <a href='/'>
+      <a href='https://github.com/AndresPaulino'>
         <img
           className='nav__avatar'
           src='https://upload.wikimedia.org/wikipedia/commons/0/0b/Netflix-avatar.png?20201013161117'
