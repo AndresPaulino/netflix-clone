@@ -14,7 +14,7 @@ I'm a passionate full stack developer with experience using the MERN stack. I lo
 
 ## Screenshots
 
-![App Screenshot](https://ibb.co/D10FqM0)
+![netflix-clone-screenshot](https://user-images.githubusercontent.com/93609044/167237545-83aea926-e533-473b-8973-08a98f6da056.jpg)
 
 
 ## Demo
