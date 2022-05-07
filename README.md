@@ -40,4 +40,5 @@ https://netflixclonse.netlify.app
  - [Clever Programmer](https://www.youtube.com/channel/UCqrILQNl5Ed9Dz6CGMyvMTQ)
  - [Web Dev Simplified](https://www.youtube.com/c/WebDevSimplified)
  - [Netflix](www.netflix.com/)
+ - [TMDB API](https://developers.themoviedb.org/3/getting-started/introduction)
 
